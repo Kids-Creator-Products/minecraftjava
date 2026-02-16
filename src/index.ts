@@ -102,6 +102,13 @@ import { versionToNumber } from 'mc-assets/dist/utils'
 import { isPlayground } from './playgroundIntegration'
 import { appLoadBackend } from './appViewerLoad'
 import { FORBIDDEN_VERSION_THRESHOLD } from './supportedVersions.mjs'
+import { myCustomPlugin } from './myCustomPlugin';
+
+// ... inside the bot creation logic
+const bot = mineflayer.createBot(options);
+
+// Inject your plugin here
+bot.loadPlugin(myCustomPlugin);
 
 window.debug = debug
 window.beforeRenderFrame = []
