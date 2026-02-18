@@ -4,7 +4,7 @@
 
 Minecraft **clone** written in TypeScript using the best modern web technologies. A vanilla-compatible client and integrated server packaged into a single web app.
 
-You can try this out at [mcraft.fun](https://mcraft.fun/), [mcon.vercel.app](https://mcon.vercel.app/), or the GitHub Pages deployment. Every commit from the default (`next`) branch is deployed to [s.mcraft.fun](https://s.mcraft.fun/) and [beta.mcraft.fun](https://beta.mcraft.fun/) - it's usually newer, but might be less stable.
+You can try this out at [Funbox on itch.io](https://pro2500.itch.io/funbox), [mcon.vercel.app](https://mcon.vercel.app/), or the GitHub Pages deployment. Every commit from the default (`next`) branch is deployed to [s.mcraft.fun](https://s.mcraft.fun/) and [beta.mcraft.fun](https://beta.mcraft.fun/) - it's usually newer, but might be less stable.
 
 > SAFEST way to join servers.
 >
